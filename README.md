@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/PxCaRJQ.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/PxCaRJQ.png" alt="Photo of DNS lab"/>
 </p>
 
 <h1>DNS Record Management and Resolution Lab</h1>
